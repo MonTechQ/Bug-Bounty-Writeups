@@ -13,7 +13,7 @@ To respect program confidentiality, **every writeup is anonymized**: company nam
 
 ## How I work
 
-- Manual testing first, with two of my own test accounts for every authorization test.
+- Manual testing first, with  my own test accounts for every authorization test.
 - I stop as soon as real user data appears and never touch accounts I do not own.
 - Every finding gets a control test to find its real limits before I rate severity.
 - Methodology references: OWASP WSTG, WASC Threat Classification, NIST SP 800-115, CVSS 3.1.
